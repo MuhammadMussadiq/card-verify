@@ -20,9 +20,9 @@ Card Verify is a card verification microservice which contains two endpoints.
 {
     "success" : true ,
     "payload" : {
-    "scheme" : "visa" ,
-    "type" : "debit" ,
-    "bank" : "UBS"
+      "scheme" : "visa" ,
+      "type" : "debit" ,
+      "bank" : "UBS"
     }
 }
 ```
